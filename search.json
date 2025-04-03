@@ -1,17 +1,45 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "📬\n\n\nI’d love to hear from you. Let’s get in touch!\n\n\n\n📧 Email: shuyu@bu.edu\n\n\n\n\n\n  \n\nSend Message"
+    "text": "📅 Date: 12/21\n\nProcessed player_stats.csv dataset containing ATP rankings of 500 tennis players.\n\nFiltered and cleaned data, focusing on Best Rank, Prize Money, and Plays; removed null values.\n\nAnalyzed correlation between Best Rank and Prize Money using visualizations and statistical techniques.\n\nApplied K-Nearest Neighbors (KNN) regression algorithm for ranking predictions.\n\nSummarized data insights by calculating mean, max, and min prize money per ranking group."
+  },
+  {
+    "objectID": "projects.html#predicting-tennis-players-best-rank-from-prize-money-earned-group-project",
+    "href": "projects.html#predicting-tennis-players-best-rank-from-prize-money-earned-group-project",
+    "title": "Projects",
+    "section": "",
+    "text": "📅 Date: 12/21\n\nProcessed player_stats.csv dataset containing ATP rankings of 500 tennis players.\n\nFiltered and cleaned data, focusing on Best Rank, Prize Money, and Plays; removed null values.\n\nAnalyzed correlation between Best Rank and Prize Money using visualizations and statistical techniques.\n\nApplied K-Nearest Neighbors (KNN) regression algorithm for ranking predictions.\n\nSummarized data insights by calculating mean, max, and min prize money per ranking group."
+  },
+  {
+    "objectID": "projects.html#machine-learning-techniques-for-predicting-stroke-final-project",
+    "href": "projects.html#machine-learning-techniques-for-predicting-stroke-final-project",
+    "title": "Projects",
+    "section": "🧠 Machine Learning Techniques for Predicting Stroke (Final Project)",
+    "text": "🧠 Machine Learning Techniques for Predicting Stroke (Final Project)\n📅 Date: 01/23 – 04/23\n\nConducted exploratory data analysis and visualization using Python to identify stroke-related risk factors.\n\nImplemented multiple machine learning models, optimizing performance using ROC/AUC analysis.\n\nIdentified Multinomial Logistic Regression as the best model for unbalanced datasets using G-Mean comparison."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my full resume here:\n⬇️ Download Resume (PDF)"
+  },
+  {
+    "objectID": "cv.html#download-my-resume",
+    "href": "cv.html#download-my-resume",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my full resume here:\n⬇️ Download Resume (PDF)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hi, I’m Shuyu Pan",
     "section": "",
-    "text": "Hi, I’m Shuyu Pan\n💻📊☕ | Data Analytics | Web Development | AI Enthusiast\nContact\n⬇️ Scroll down"
+    "text": "Hi, I’m Shuyu Pan\n💻📊☕ | Data Analytics | Web Development | AI Enthusiast\nContact"
   },
   {
     "objectID": "about.html",
@@ -19,5 +47,12 @@
     "title": "👋 About Me",
     "section": "",
     "text": "👋 About Me\n\nName: Shuyu Pan\nFrom: Xi’an, Shaanxi, China\nBirthday: August 31, 2000\nMBTI: ENFJ\nEducation:\n    🎓 B.Sc. in Mathematics, University of British Columbia (UBC), Canada\n    📚 M.Sc. in Business Analytics, Boston University, USA\nHobbies: LEGO, Music\nFavorite Artist: Taylor Swift\n\n\n\n💬 Let’s Connect\nFeel free to reach out on the Contact page if you’d like to talk about analytics, music, or anything fun!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Shuyu Pan",
+    "section": "",
+    "text": "📬 Contact\n\n\nI’d love to hear from you. Let’s get in touch!\n\n\n\n📧 Email: shuyu@bu.edu\n\n\n\n\n\n  \n\nSend Message"
   }
 ]

@@ -1,5 +1,29 @@
 ---
-title: "About"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
 ---
 
-About this site
+# 👋 About Me
+
+<div class="left-align">
+
+**Name**: Shuyu Pan  
+**From**: Xi’an, Shaanxi, China  
+**Birthday**: August 31, 2000  
+**MBTI**: ENFJ  
+**Education**:  
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 B.Sc. in Mathematics, University of British Columbia (UBC), Canada  
+&nbsp;&nbsp;&nbsp;&nbsp;📚 M.Sc. in Business Analytics, Boston University, USA  
+**Hobbies**: LEGO, Music  
+**Favorite Artist**: Taylor Swift
+
+</div>
+---
+
+### 💬 Let's Connect
+
+Feel free to reach out on the [Contact](contact.qmd) page if you'd like to talk about analytics, music, or anything fun!
+

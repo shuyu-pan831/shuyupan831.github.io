@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "👋 About Me",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "👋 About Me\n\nName: Shuyu Pan\nFrom: Xi’an, Shaanxi, China\nBirthday: August 31, 2000\nMBTI: ENFJ\nEducation:\n    🎓 B.Sc. in Mathematics, University of British Columbia (UBC), Canada\n    📚 M.Sc. in Business Analytics, Boston University, USA\nHobbies: LEGO, Music\nFavorite Artist: Taylor Swift\n\n\n\n💬 Let’s Connect\nFeel free to reach out on the Contact page if you’d like to talk about analytics, music, or anything fun!"
+    "text": "You can download my full resume here:\n⬇️ Download Resume (PDF)"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Shuyu Pan",
+    "objectID": "cv.html#download-my-resume",
+    "href": "cv.html#download-my-resume",
+    "title": "CV",
     "section": "",
-    "text": "📬 Contact\n\n\nI’d love to hear from you. Let’s get in touch!\n\n\n\n📧 Email: shuyu@bu.edu\n\n\n\n\n\n  \n\nSend Message"
+    "text": "You can download my full resume here:\n⬇️ Download Resume (PDF)"
   },
   {
     "objectID": "index.html",
@@ -19,6 +19,13 @@
     "title": "Hi, I’m Shuyu Pan",
     "section": "",
     "text": "Hi, I’m Shuyu Pan\n💻📊☕ | Data Analytics | Web Development | AI Enthusiast\nContact"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Shuyu Pan",
+    "section": "",
+    "text": "📬 Contact\n\n\nI’d love to hear from you. Let’s get in touch!\n\n\n\n📧 Email: shuyu@bu.edu\n\n\n\n\n\n  \n\nSend Message"
   },
   {
     "objectID": "projects.html",
@@ -42,24 +49,10 @@
     "text": "🧠 Machine Learning Techniques for Predicting Stroke (Final Project)\n📅 Date: 01/23 – 04/23\n\nConducted exploratory data analysis and visualization using Python to identify stroke-related risk factors.\n\nImplemented multiple machine learning models, optimizing performance using ROC/AUC analysis.\n\nIdentified Multinomial Logistic Regression as the best model for unbalanced datasets using G-Mean comparison."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "👋 About Me",
     "section": "",
-    "text": "You can download my full resume here:\n⬇️ Download Resume (PDF)"
-  },
-  {
-    "objectID": "cv.html#download-my-resume",
-    "href": "cv.html#download-my-resume",
-    "title": "CV",
-    "section": "",
-    "text": "You can download my full resume here:\n⬇️ Download Resume (PDF)"
-  },
-  {
-    "objectID": "cv.html#work-experience",
-    "href": "cv.html#work-experience",
-    "title": "CV",
-    "section": "💼 Work Experience",
-    "text": "💼 Work Experience\n\n🏢 JD.com – Algorithm Intern\nBeijing, China | Summer 2022\n- Developed and optimized product recommendation algorithms.\n- Conducted A/B testing and data analysis to evaluate recommendation effectiveness.\n- Collaborated with product and engineering teams to deploy real-time ranking models.\n\n\n\n🧮 Jingdong – Data Analyst Intern\nBeijing, China | Summer 2021\n- Conducted sales performance analysis using Python and Excel.\n- Built interactive dashboards using Tableau to track KPIs.\n- Worked with cross-functional teams to identify revenue growth opportunities.\n\n\n\n🏫 Teaching Assistant – UBC\nVancouver, Canada | 2020 – 2021\n- Assisted in instruction and grading for Calculus I/II.\n- Held weekly office hours to support over 50 students."
+    "text": "👋 About Me\n\nName: Shuyu Pan\nFrom: Xi’an, Shaanxi, China\nBirthday: August 31, 2000\nMBTI: ENFJ\nEducation:\n    🎓 B.Sc. in Mathematics, University of British Columbia (UBC), Canada\n    📚 M.Sc. in Business Analytics, Boston University, USA\nHobbies: LEGO, Music\nFavorite Artist: Taylor Swift\n\n\n\n💬 Let’s Connect\nFeel free to reach out on the Contact page if you’d like to talk about analytics, music, or anything fun!"
   }
 ]

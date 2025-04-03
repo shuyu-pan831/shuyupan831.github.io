@@ -1,0 +1,28 @@
+---
+title: "Projects"
+format:
+  html:
+    css: styles.css
+    toc: false
+    page-layout: full
+    theme: cosmo
+    class: project-page
+---
+
+## 🎾 Predicting Tennis Players' Best Rank from Prize Money Earned (Group Project)  
+📅 Date: 12/21  
+
+- Processed `player_stats.csv` dataset containing ATP rankings of 500 tennis players.  
+- Filtered and cleaned data, focusing on Best Rank, Prize Money, and Plays; removed null values.  
+- Analyzed correlation between Best Rank and Prize Money using visualizations and statistical techniques.  
+- Applied **K-Nearest Neighbors (KNN)** regression algorithm for ranking predictions.  
+- Summarized data insights by calculating mean, max, and min prize money per ranking group.  
+
+---
+
+## 🧠 Machine Learning Techniques for Predicting Stroke (Final Project)  
+📅 Date: 01/23 – 04/23  
+
+- Conducted exploratory data analysis and visualization using Python to identify stroke-related risk factors.  
+- Implemented multiple machine learning models, optimizing performance using ROC/AUC analysis.  
+- Identified **Multinomial Logistic Regression** as the best model for unbalanced datasets using G-Mean comparison.  

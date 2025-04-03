@@ -1,14 +1,16 @@
 ---
-title: "Contact"
 format:
   html:
-    theme: cosmo
     css: styles.css
     toc: false
+    page-layout: full
+    theme: cosmo
+    class: contact-page
 ---
 
+
 <div class="contact-section">
-  <h2>📬</h2>
+  <h2>📬 Contact</h2>
   <p>I’d love to hear from you. Let’s get in touch!</p>
 
   <div>

@@ -1,9 +1,12 @@
 ---
 format:
   html:
-    theme: cosmo
     css: styles.css
     toc: false
+    page-layout: full
+    theme: cosmo
+    class: about-page
+
 ---
 
 # 👋 About Me

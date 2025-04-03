@@ -1,0 +1,70 @@
+---
+title: "CV"
+format:
+  html:
+    css: styles.css
+    toc: false
+    page-layout: full
+    theme: cosmo
+    class: cv-page
+---
+
+## 📥 Download My Resume
+
+You can download my full resume here:  
+[⬇️ Download Resume (PDF)](Shuyu_Pan_Resume.pdf){target="_blank"}
+
+---
+
+# ✨ Highlight
+
+Data analyst with hands-on experience in business analytics, machine learning, and optimization models.  
+Proficient in Python, SQL, R, and MATLAB. Google Data Analytics Certified.  
+A detail-oriented and analytical problem-solver with strong teamwork and communication skills.
+
+---
+
+# 💼 Work Experience
+
+### **Algorithm Intern at Yuanguang Energy Internet Industry Development (Hengqin) Co., Ltd**, Beijing, China  
+🗓️ 03/24 - 07/24
+
+- Conducted statistical analysis of power consumption data in the iron and steel industry.  
+- Developed models in Vensim to analyze the impact of energy consumption factors.  
+- Designed a Python GUI for visualization of energy efficiency findings.  
+- Built an optimization model for equipment distribution based on consumption metrics.
+
+---
+
+### **Operation Intern at JD (Jingdong)**, Beijing, China  
+🗓️ 05/21 - 08/21
+
+- Assessed supplier qualifications and flagged product listing issues.  
+- Identified fraud cases and submitted detailed reports.  
+- Aggregated opinion data using Excel and produced weekly reports.  
+- Coordinated across procurement, sales, and suppliers to solve issues.
+
+---
+
+### **Lobby Manager Assistant Intern at China Construction Bank**, Xi’an, Shaanxi, China  
+🗓️ 03/21 - 04/21
+
+- Guided customers using self-service banking machines.  
+- Verified financial information and distributed Social Security cards.
+
+---
+
+### **Salesclerk at LEGO**, Xi’an, Shaanxi, China  
+🗓️ 02/21 - 03/21
+
+- Recommended LEGO products based on customer preferences.  
+- Helped plan and run children’s in-store events.
+
+---
+
+# 🧠 Technical Skills
+
+- 💻 **Programming Languages:** `Java`, `Python`, `SQL`, `Matlab`  
+- ⚙️ **Tools & Platforms:** `Git`, `Linux`, `OSX`, `Windows`  
+- 🌐 **Web Technologies:** `HTML`, `CSS`, `JavaScript`, `AWS`
+

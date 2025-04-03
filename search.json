@@ -4,7 +4,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "📬 Contact\n\n\nI’d love to hear from you. Let’s get in touch!\n\n\n&lt;p&gt;&lt;strong&gt;📧 Email:&lt;/strong&gt; &lt;a href=\"mailto:shuyu@bu.edu\"&gt;shuyu@bu.edu&lt;/a&gt;&lt;/p&gt;\n\n\n\n\n&lt;input type=\"text\" name=\"name\" placeholder=\"Name\" required&gt;\n&lt;input type=\"email\" name=\"_replyto\" placeholder=\"Email\" required&gt;\n\n\n\n\nSend Message"
+    "text": "📬 Contact\n\n\nI’d love to hear from you. Let’s get in touch!\n\n\n&lt;p&gt;&lt;strong&gt;📧 Email:&lt;/strong&gt; &lt;a href=\"mailto:shuyu@bu.edu\"&gt;shuyu@bu.edu&lt;/a&gt;&lt;/p&gt;\n\n\n\n  &lt;input type=\"text\" name=\"name\" placeholder=\"Name\" required&gt;\n  &lt;input type=\"email\" name=\"_replyto\" placeholder=\"Email\" required&gt;\n&lt;/div&gt;\n&lt;input type=\"text\" name=\"subject\" placeholder=\"Subject\" required&gt;\n&lt;textarea name=\"message\" rows=\"5\" placeholder=\"Message\" required&gt;&lt;/textarea&gt;\n&lt;button type=\"submit\"&gt;Send Message&lt;/button&gt;"
   },
   {
     "objectID": "index.html",

@@ -1,11 +1,17 @@
 ---
 title: "Shuyu Pan"
-author: "Shuyu Pan"
-date: "2025-04-3"
 format:
   html:
-    theme: journal
-    toc: true
+    theme: cosmo
+    css: styles.css
+    toc: false
 ---
-# Hello, World!  
-Welcome to my Quarto website.  
+
+<div class="hero">
+  <h1>Hi, I'm Shuyu Pan</h1>
+  <p>💻📊☕️ | Data Analytics | Web Development | AI Enthusiast</p>
+  <a href="#contact" class="button">Contact</a>
+  <div class="scroll-down">⬇️ Scroll down</div>
+</div>
+
+

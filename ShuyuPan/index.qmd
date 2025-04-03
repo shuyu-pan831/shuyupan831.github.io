@@ -5,12 +5,17 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
+    title-block-banner: false
+    title-block-style: none
+    page-layout: full
+execute:
+  echo: false
 ---
 
 <div class="hero">
-  <h1>Hi, I'm Shuyu Pan</h1>
+  <h1>Hi, I’m Shuyu Pan</h1>
   <p>💻📊☕️ | Data Analytics | Web Development | AI Enthusiast</p>
-  <a href="#contact" class="button">Contact</a>
+  <a href="contact.html" class="button">Contact</a>
   <div class="scroll-down">⬇️ Scroll down</div>
 </div>
 

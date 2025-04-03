@@ -1,0 +1,18 @@
+---
+title: "Contact"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+---
+
+# 📬 Contact
+
+Get in touch with me
+
+---
+
+### 📧 Email 
+shuyu@bu.edu
+

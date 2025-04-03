@@ -134,17 +134,29 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="contact" class="level1">
-<h1>📬 Contact</h1>
-<p>Get in touch with me</p>
-<hr>
-<section id="email" class="level3">
-<h3 class="anchored" data-anchor-id="email">📧 Email</h3>
-<p>shuyu@bu.edu</p>
+<div class="contact-section">
+<h2 class="anchored">
+📬 Contact
+</h2>
+<p>
+I’d love to hear from you. Let’s get in touch!
+</p>
+<div class="contact-info">
+<pre><code>&lt;p&gt;&lt;strong&gt;📧 Email:&lt;/strong&gt; &lt;a href="mailto:shuyu@bu.edu"&gt;shuyu@bu.edu&lt;/a&gt;&lt;/p&gt;</code></pre>
+</div>
+<form action="https://formspree.io/f/xanepdal" method="POST">
+<div class="form-row">
+<pre><code>  &lt;input type="text" name="name" placeholder="Name" required&gt;
+  &lt;input type="email" name="_replyto" placeholder="Email" required&gt;
+&lt;/div&gt;
+&lt;input type="text" name="subject" placeholder="Subject" required&gt;
+&lt;textarea name="message" rows="5" placeholder="Message" required&gt;&lt;/textarea&gt;
+&lt;button type="submit"&gt;Send Message&lt;/button&gt;</code></pre>
+
+</div></form>
 
 
-</section>
-</section>
+</div>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
